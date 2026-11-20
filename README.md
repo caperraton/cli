@@ -54,7 +54,7 @@ datascrape github \
 5. Grab Your Results
 When it finishes, look for a new reports/ folder in the directory where you ran the command. Inside, you'll find:
 
-github_ownership_baseline.csv (open this in Excel to build your summary for Robertus)
+github_ownership_baseline.csv 
 
 github_ownership_baseline.json
 
